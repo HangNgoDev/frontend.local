@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.menu-right{
+    position: absolute;
+    left: 0;
+    width: 100px;
+    
+    background-color: aquamarine;
+}
+ul{
+   padding-left: inherit;
+   margin-left: 15px;
+}
+
+a{
+    list-style-type: none;
+}
+ul >li{
+   
+    line-height: 7.87rem;
+    list-style: none;
+}
