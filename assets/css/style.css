@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: inherit;
+    outline: none !important;
+    list-style: none !important;
+    text-decoration: none !important;
+}
+.home{
+    background-image: url("https://mariame.netlify.app/assets/img/bg/bg.jpg");
+    background-size: cover;
+    
+}
+section{
+    padding-top: 30px;
+}
+.vh-30{
+    height: 30vh!important;
+}
